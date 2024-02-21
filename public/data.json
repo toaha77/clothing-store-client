@@ -1,0 +1,194 @@
+[
+  {
+    "image": "https://i.ibb.co/mJx6LdP/pexels-mike-bird-898336.jpg",
+    "name": "BMW X1",
+    "brand_name": "BMW",
+    "type": "Seden",
+    "price": "$44499",
+    "rating": 4.5
+    
+  },
+  {
+    "image": "https://i.ibb.co/d29xfBd/pexels-joshua-k-ller-757185.jpg",
+    "name": "BMW i4",
+    "brand_name": "BMW",
+    "type": "Coupe",
+    "price": "$29799",
+    "rating": 3.8 
+  },
+  {
+    "image": "https://i.ibb.co/MnKVcSB/pexels-mike-bird-892522.jpg",
+    "name": "BMW 2 Series",
+    "brand_name": "BMW",
+    "type": "Seden",
+    "price": "$19599",
+    "rating": 4.0 
+  },
+  {
+    "image": "https://i.ibb.co/R2zGVk3/pexels-mike-bird-93615.jpg",
+    "name": "BMW U06",
+    "brand_name": "BMW",
+    "type": "Luxury",
+    "price": "$53499" 
+  },
+  {
+    "image": "https://i.ibb.co/K6QYzTB/pexels-deane-bayas-9212878.jpg",
+    "name": "Toyota 86",
+    "brand_name": "Toyota",
+    "type": " per Car",
+    "price": "$3999",
+    "rating": 4.7 
+  },
+  {
+    "image": "https://i.ibb.co/8mDsNRx/pexels-gr-gory-costa-5733711.jpg",
+    "name": " Toyota Sienna",
+    "brand_name": "Toyota",
+    "type": "SUV",
+    "price": "$19599",
+    "rating": 3.5 
+  },
+  {
+    "image": "https://i.ibb.co/BCWSb9D/pexels-erik-mclean-4061413.jpg",
+    "name": "Toyota Supra",
+    "brand_name": "Toyota",
+    "type": "Sports Car",
+    "price": "$29799",
+    "rating": 4.9 
+  },
+  {
+    "image": "https://i.ibb.co/fpbhVYM/pexels-erik-mclean-17507723.jpg",
+    "name": "Toyota Camry",
+    "brand_name": "Toyota",
+    "type": "Luxury",
+    "price": "$19599",
+    "rating": 3.2 
+  },
+  {
+    "image": "https://i.ibb.co/Nn9SzrN/pexels-alex-akulov-18501548.jpg",
+    "name": "Ford Mustang",
+    "brand_name": "Ford",
+    "type": "Muscle Car",
+    "price": "$49799",
+    "rating": 4.6 
+  },
+  {
+    "image": "https://i.ibb.co/M2rn5Fn/pexels-matt-weissinger-14438397.jpg",
+    "name": "Ford Transit",
+    "brand_name": "Ford",
+    "type": "Pickup",
+    "price": "$11999",
+    "rating": 4.1 
+  },
+  {
+    "image": "https://i.ibb.co/wJyCtsD/pexels-chaiya-saleethong-16033917.jpg",
+    "name": "Ford Ranger",
+    "brand_name": "Ford",
+    "type": "SUV",
+    "price": "$29799",
+    "rating": 4.3 
+  },
+  {
+    "image": "https://i.ibb.co/6bdJYj9/pexels-avinash-patel-544542.jpg",
+    "name": "Ford GT",
+    "brand_name": "Ford",
+    "type": "Muscle Car",
+    "price": "$29899",
+    "rating": 4.8 
+  },
+  {
+    "image": "https://i.ibb.co/wKqTNFm/pexels-jay-pizzle-14445437.jpg",
+    "name": "Tesla Model X",
+    "brand_name": "Tesla",
+    "type": "Seden",
+    "price": "$49799",
+    "rating": 3.9 
+  },
+  {
+    "image": "https://i.ibb.co/d591Pgr/pexels-borys-zaitsev-7985573.jpg",
+    "name": "Tesla Model S",
+    "brand_name": "Tesla",
+    "type": "Muscle Car",
+    "price": "$19599",
+    "rating": 4.5 
+  },
+  {
+    "image": "https://i.ibb.co/CHYCJM8/pexels-matt-weissinger-11099566.jpg",
+    "name": "Tesla Model Y",
+    "brand_name": "Tesla",
+    "type": "Coupe",
+    "price": "$53499",
+    "rating": 4.7 
+  },
+  {
+    "image": "https://i.ibb.co/mtqYyhk/pexels-duren-williams-14648100.jpg",
+    "name": "Tesla Model 3",
+    "brand_name": "Tesla",
+    "type": "Seden",
+    "price": "$29899",
+    "rating": 4.0 
+  },
+  {
+    "image": "https://i.ibb.co/sHc3YjF/pexels-mike-bird-3729464.jpg",
+    "name": "Marcedes-Benz SL Class",
+    "brand_name": "Marcedes-Benz",
+    "type": "Conbertible",
+    "price": "$49799",
+    "rating": 4.2 
+  },
+  {
+    "image": "https://i.ibb.co/TLBsz3M/pexels-kamshotthat-3457780.jpg",
+    "name": "Marcedes-Benz G-Wagen",
+    "brand_name": "Marcedes-Benz",
+    "type": "Jeep",
+    "price": "$29799",
+    "rating": 3.8 
+  },
+  {
+    "image": "https://i.ibb.co/sHc3YjF/pexels-mike-bird-3729464.jpg",
+    "name": "Marcedes-Benz EQS",
+    "brand_name": "Marcedes-Benz",
+    "type": "Super Car",
+    "price": "$53499",
+    "rating": 4.6
+  },
+  {
+    "image": "https://i.ibb.co/NZSRLZR/pexels-mike-bird-120049.jpg",
+    "name": "Marcedes-Benz CLA",
+    "brand_name": "Marcedes-Benz",
+    "type": "Coupe",
+    "price": "$44499",
+    "rating": 4.9 
+  },
+  {
+    "image": "https://i.ibb.co/1Rkf6kK/pexels-aykut-ercan-9609144.jpg",
+    "name": "Hyundai Veloster N ",
+    "brand_name": "Hyundai",
+    "type": "Sports Car",
+    "price": "$53499",
+    "rating": 3.7 
+  },
+  {
+    "image": "https://i.ibb.co/dpRJDrs/pexels-vincent-njoroge-17690788.jpg",
+    "name": "Hyundai Elantra",
+    "brand_name": "Hyundai",
+    "type": "Coupe",
+    "price": "$29499",
+    "rating": 4.4 
+  },
+  {
+    "image": "https://i.ibb.co/G98QQX6/pexels-hyundai-motor-group-11158776.jpg",
+    "name": "Hyundai Sonata",
+    "brand_name": "Tesla",
+    "type": "Coupe",
+    "price": "$29899",
+    "rating": 3.5 
+  },
+  {
+    "image": "https://i.ibb.co/PwHdhL2/pexels-hyundai-motor-group-11194510.jpg",
+    "name": "Hyundai Venue",
+    "brand_name": "Hyundai",
+    "type": "SUV",
+    "price": "$29499",
+    "rating": 4.3 
+  }
+]
